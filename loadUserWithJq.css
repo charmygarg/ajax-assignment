@@ -1,0 +1,11 @@
+
+#user-name,#company-name,#email-ID ,#created-at,#location, #url {
+  margin-top: 30px;
+}
+
+.blocks {
+  margin-top: 20px;
+  background-color: white!important;
+  text-align: center;
+  box-shadow: 10px 10px 5px #888888;
+}
